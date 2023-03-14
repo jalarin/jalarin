@@ -3,7 +3,7 @@ I'm Jodie and I'm currently teaching myself data and analytics. I created this G
 
 📚Courses in Progress
 - Google Data Analytics Professional Certificate
-- SQL
+- SQL by Alex Freberg (Youtube)
 
 
 ***
